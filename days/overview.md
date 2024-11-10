@@ -5,6 +5,7 @@
 - shell script
 - Git 
 - Git branches
+- Git merge?
 - Docker
 - Docker + Volume SQLite
 - Multiple Containers (Web, SQL)
