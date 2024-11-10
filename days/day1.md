@@ -9,6 +9,8 @@ visit Debian website
 download ISO
 Install on Server
 set up server?
+take project ob USB-Stick
+Copy to host
 go build
 .\hello
 ```
