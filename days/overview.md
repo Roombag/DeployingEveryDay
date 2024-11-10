@@ -14,5 +14,3 @@
 - Ansible
 - Docker Swarm
 - Kubernetes?
-
-CI/CD?
